@@ -8,7 +8,7 @@
 
 <p align="center">
   <img
-    src="./banner.png"
+    src="./G_Sandeep_Kumar_BannerPhoto.png"
     width="100%"
     style="max-height: 350px; object-fit: cover;"
     alt="G Sandeep Kumar"
