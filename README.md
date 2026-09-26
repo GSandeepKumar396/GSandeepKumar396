@@ -48,15 +48,17 @@ API development and scalable software solutions**.
 
 <h2>🧰 Tech Stack</h2>
 
-<table>
+<table width="100%" style="border-collapse: collapse;">
+
 <tr>
-<td width="50%" valign="top">
+
+<td width="50%" valign="top" style="padding: 20px; border: 1px solid #30363d;">
 
 <h3>💻 Languages</h3>
 
 <p>
 <img src="https://img.shields.io/badge/JAVA-FF6B35?style=flat-square&logo=openjdk&logoColor=white"/>
-&nbsp;
+&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 </p>
 
@@ -64,7 +66,7 @@ API development and scalable software solutions**.
 
 <p>
 <img src="https://img.shields.io/badge/SPRING%20BOOT-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-&nbsp;
+&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/REST%20APIs-8B5CF6?style=flat-square&logo=fastapi&logoColor=white"/>
 </p>
 
@@ -72,15 +74,15 @@ API development and scalable software solutions**.
 
 <p>
 <img src="https://img.shields.io/badge/REACT.js-00B8D9?style=flat-square&logo=react&logoColor=white"/>
-&nbsp;
+&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-&nbsp;
+&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 </p>
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="padding: 20px; border: 1px solid #30363d;">
 
 <h3>🗄️ Database</h3>
 
@@ -92,13 +94,13 @@ API development and scalable software solutions**.
 
 <p>
 <img src="https://img.shields.io/badge/GIT-F05032?style=flat-square&logo=git&logoColor=white"/>
-&nbsp;
+&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/GITHUB-6E40C9?style=flat-square&logo=github&logoColor=white"/>
 </p>
 
 <p>
 <img src="https://img.shields.io/badge/VS%20CODE-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-&nbsp;
+&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/POSTMAN-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
 </p>
 
@@ -106,21 +108,23 @@ API development and scalable software solutions**.
 
 <p>
 <img src="https://img.shields.io/badge/OOP-FF6B35?style=flat-square&logo=java&logoColor=white"/>
-&nbsp;
+&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/DBMS-00758F?style=flat-square&logo=mysql&logoColor=white"/>
 </p>
 
 <p>
 <img src="https://img.shields.io/badge/OPERATING%20SYSTEMS-7C3AED?style=flat-square&logo=linux&logoColor=white"/>
-</p>
-
-<p>
+&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/COMPUTER%20NETWORKS-00897B?style=flat-square&logo=cisco&logoColor=white"/>
 </p>
 
 </td>
+
 </tr>
+
 </table>
+
+
 
 # 🚀 Featured Projects
 
