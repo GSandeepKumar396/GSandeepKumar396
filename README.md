@@ -291,8 +291,6 @@ To become a strong Software Engineer capable of designing,
 developing and maintaining scalable, reliable and production-ready
 applications.
 
----
-
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
@@ -300,7 +298,7 @@ applications.
   <img
     height="170"
     src="https://github-readme-stats.vercel.app/api?username=GSandeepKumar396&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-    alt="G Sandeep Kumar GitHub Stats"
+    alt="GitHub Stats"
   />
 
   <img
@@ -310,6 +308,8 @@ applications.
   />
 
 </div>
+
+
 
 <h2 align="center">🔥 GitHub Contribution Streak</h2>
 
