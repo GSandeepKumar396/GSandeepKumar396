@@ -62,8 +62,6 @@ API development and scalable software solutions**.
 <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 </p>
 
-<br>
-
 <h3>⚙️ Backend</h3>
 
 <p>
@@ -71,8 +69,6 @@ API development and scalable software solutions**.
 &nbsp;&nbsp;
 <img src="https://img.shields.io/badge/REST%20APIs-8B5CF6?style=flat-square&logo=fastapi&logoColor=white"/>
 </p>
-
-<br>
 
 <h3>🎨 Frontend</h3>
 
@@ -95,8 +91,6 @@ API development and scalable software solutions**.
 <p>
 <img src="https://img.shields.io/badge/MYSQL-00758F?style=flat-square&logo=mysql&logoColor=white"/>
 </p>
-
-<br>
 
 <h3>🛠️ Tools</h3>
 
@@ -121,9 +115,9 @@ API development and scalable software solutions**.
 </p>
 
 <p>
-<img src="https://img.shields.io/badge/OPERATING%20SYSTEMS-7C3AED?style=flat-square&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/OS-7C3AED?style=flat-square&logo=linux&logoColor=white"/>
 &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/COMPUTER%20NETWORKS-00897B?style=flat-square&logo=cisco&logoColor=white"/>
+<img src="https://img.shields.io/badge/NETWORKING-00897B?style=flat-square&logo=cisco&logoColor=white"/>
 </p>
 
 </td>
