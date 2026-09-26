@@ -106,6 +106,8 @@ API development and scalable software solutions**.
 
 <h3>🧠 Core CS</h3>
 
+<h3>🧠 Core CS</h3>
+
 <p>
 <img src="https://img.shields.io/badge/OOP-FF6B35?style=flat-square&logo=java&logoColor=white"/>
 &nbsp;&nbsp;
