@@ -120,10 +120,6 @@ API development and scalable software solutions**.
 
 <h2>🧰 Tech Stack</h2>
 
-<table width="100%">
-<tr>
-<td style="padding: 25px 30px;">
-
 <h3>💻 Languages</h3>
 
 <p>
@@ -134,7 +130,7 @@ API development and scalable software solutions**.
 <img height="32" src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 </p>
 
-<hr>
+<br>
 
 <h3>🎨 Frontend & UI</h3>
 
@@ -146,7 +142,7 @@ API development and scalable software solutions**.
 <img height="32" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 </p>
 
-<hr>
+<br>
 
 <h3>⚙️ Backend</h3>
 
@@ -156,7 +152,7 @@ API development and scalable software solutions**.
 <img height="32" src="https://img.shields.io/badge/REST%20APIs-8B5CF6?style=flat-square&logo=fastapi&logoColor=white"/>
 </p>
 
-<hr>
+<br>
 
 <h3>🗄️ Databases & Cache</h3>
 
@@ -166,7 +162,7 @@ API development and scalable software solutions**.
 <img height="32" src="https://img.shields.io/badge/REDIS-DC382D?style=flat-square&logo=redis&logoColor=white"/>
 </p>
 
-<hr>
+<br>
 
 <h3>🛠️ Tools</h3>
 
@@ -180,7 +176,7 @@ API development and scalable software solutions**.
 <img height="32" src="https://img.shields.io/badge/POSTMAN-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
 </p>
 
-<hr>
+<br>
 
 <h3>🧠 Core CS</h3>
 
@@ -193,10 +189,6 @@ API development and scalable software solutions**.
 &nbsp;&nbsp;&nbsp;
 <img height="32" src="https://img.shields.io/badge/COMPUTER%20NETWORKS-00897B?style=flat-square&logo=cisco&logoColor=white"/>
 </p>
-
-</td>
-</tr>
-</table>
 
 
 # 🚀 Featured Projects
