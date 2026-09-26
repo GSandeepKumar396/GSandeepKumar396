@@ -6,37 +6,31 @@
   <img src="./G_Sandeep_Kumar_BannerPhoto.png" width="100%" alt="G Sandeep Kumar - Software Developer"/>
 </p>
 
+<p align="center">
+  <img
+    src="./banner.png"
+    width="100%"
+    style="max-height: 350px; object-fit: cover;"
+    alt="G Sandeep Kumar"
+  />
+</p>
+
 <br>
 
 <!-- ========================================================= -->
 <!--                         INTRO                             -->
 <!-- ========================================================= -->
 
-<h1 align="center">Hi 👋, I'm G Sandeep Kumar</h1>
-
-<h3 align="center">
-  🚀 Aspiring Software Engineer | Java | Spring Boot | React.js | REST APIs
-</h3>
-
-<p align="center">
-  <em>
-    Driven by curiosity, committed to growth, transforming ideas into scalable solutions.
-  </em>
-</p>
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:20sandeep2005@gmail.com">
-  <img src="https://img.shields.io/badge/GMAIL-FF3D00?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="YOUR_PORTFOLIO_URL">
-  <img src="https://img.shields.io/badge/PORTFOLIO-6C2BD9?style=flat-square&logo=googlechrome&logoColor=white"/>
-</a>
+<img src="https://img.shields.io/badge/OOP-FF6B35?style=flat-square&logo=java&logoColor=white"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/DBMS-00758F?style=flat-square&logo=mysql&logoColor=white"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/OPERATING%20SYSTEMS-7C3AED?style=flat-square&logo=linux&logoColor=white"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/COMPUTER%20NETWORKS-00897B?style=flat-square&logo=cisco&logoColor=white"/>
 
 </p>
 
@@ -60,7 +54,6 @@ API development and scalable software solutions**.
 
 🤝 **Ready to Build & Contribute.**
 
----
 
 ## 🧰 Tech Stack
 
@@ -100,7 +93,6 @@ API development and scalable software solutions**.
 <img src="https://img.shields.io/badge/VS%20CODE-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
 <img src="https://img.shields.io/badge/POSTMAN-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
 </p>
----
 
 # 🚀 Featured Projects
 
@@ -122,7 +114,6 @@ with user-based and API-level access control.
 
 **Tech:** `Java` `REST APIs` `Data Structures` `Backend Development`
 
----
 
 ## 📦 Product Management System
 
@@ -143,7 +134,6 @@ Spring Boot, REST APIs, MySQL and React.js.
 
 **Tech:** `Java` `Spring Boot` `REST APIs` `MySQL` `React.js`
 
----
 
 ## 🌐 Personal Portfolio Website
 
@@ -163,7 +153,6 @@ my professional profile, technical skills and projects.
 
 **Tech:** `HTML` `CSS` `JavaScript`
 
----
 
 ## 🛒 E-Commerce Website
 
@@ -183,7 +172,6 @@ Frontend Web Development internship.
 
 **Tech:** `HTML` `CSS` `JavaScript`
 
----
 
 # 💼 Experience
 
@@ -204,7 +192,6 @@ responsive and interactive web applications.
 
 **Technologies:** `HTML` `CSS` `JavaScript`
 
----
 
 # 🧠 Data Structures & Algorithms
 
@@ -233,7 +220,6 @@ problem-solving experience.
 🎯 Focused on writing efficient solutions with strong
 time and space complexity analysis.
 
----
 
 # 🧩 Core Computer Science
 
@@ -247,8 +233,6 @@ time and space complexity analysis.
 - 🌐 Computer Networks
 - 🧩 Problem Solving
 
----
-
 # 🎓 Education
 
 ## Jain (Deemed to be University) — Bengaluru
@@ -260,7 +244,6 @@ time and space complexity analysis.
 
 📊 **CGPA: 8.08**
 
----
 
 # 🏆 Certifications
 
@@ -268,7 +251,6 @@ time and space complexity analysis.
 - 🗄️ **Database and Transaction Management** — IBM SkillsBuild
 - 🔧 **Git** — IBM SkillsBuild
 
----
 
 # 🚀 Engineering Focus
 
@@ -291,25 +273,22 @@ To become a strong Software Engineer capable of designing,
 developing and maintaining scalable, reliable and production-ready
 applications.
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">📊 GitHub Activity</h2>
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/GSandeepKumar396">
+    <img
+      src="https://img.shields.io/badge/GitHub-GSandeepKumar396-181717?style=flat-square&logo=github&logoColor=white"
+      alt="GitHub Profile"
+    />
+  </a>
+</p>
 
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=GSandeepKumar396&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-    alt="GitHub Stats"
-  />
-
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GSandeepKumar396&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
-  />
-
-</div>
-
-
+<p align="center">
+  🚀 Building projects &nbsp; • &nbsp;
+  🧠 Solving DSA problems &nbsp; • &nbsp;
+  💻 Learning & contributing
+</p>
 
 <h2 align="center">🔥 GitHub Contribution Streak</h2>
 
@@ -340,7 +319,6 @@ applications.
 
 </p>
 
----
 
 # 🤝 Let's Connect
 
