@@ -48,11 +48,11 @@ API development and scalable software solutions**.
 
 <h2>🧰 Tech Stack</h2>
 
-<table width="100%" style="border-collapse: collapse;">
-
+<table width="100%">
 <tr>
 
-<td width="50%" valign="top" style="padding: 20px; border: 1px solid #30363d;">
+<!-- LEFT COLUMN -->
+<td width="50%" valign="top">
 
 <h3>💻 Languages</h3>
 
@@ -62,6 +62,8 @@ API development and scalable software solutions**.
 <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 </p>
 
+<br>
+
 <h3>⚙️ Backend</h3>
 
 <p>
@@ -69,6 +71,8 @@ API development and scalable software solutions**.
 &nbsp;&nbsp;
 <img src="https://img.shields.io/badge/REST%20APIs-8B5CF6?style=flat-square&logo=fastapi&logoColor=white"/>
 </p>
+
+<br>
 
 <h3>🎨 Frontend</h3>
 
@@ -82,13 +86,17 @@ API development and scalable software solutions**.
 
 </td>
 
-<td width="50%" valign="top" style="padding: 20px; border: 1px solid #30363d;">
+
+<!-- RIGHT COLUMN -->
+<td width="50%" valign="top">
 
 <h3>🗄️ Database</h3>
 
 <p>
 <img src="https://img.shields.io/badge/MYSQL-00758F?style=flat-square&logo=mysql&logoColor=white"/>
 </p>
+
+<br>
 
 <h3>🛠️ Tools</h3>
 
@@ -106,22 +114,22 @@ API development and scalable software solutions**.
 
 <h3>🧠 Core CS</h3>
 
+<p>
 <img src="https://img.shields.io/badge/OOP-FF6B35?style=flat-square&logo=java&logoColor=white"/>
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/DBMS-00758F?style=flat-square&logo=mysql&logoColor=white"/>
+</p>
 
-<br><br>
-
+<p>
 <img src="https://img.shields.io/badge/OPERATING%20SYSTEMS-7C3AED?style=flat-square&logo=linux&logoColor=white"/>
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/COMPUTER%20NETWORKS-00897B?style=flat-square&logo=cisco&logoColor=white"/>
+</p>
 
 </td>
 
 </tr>
-
 </table>
-
 
 
 # 🚀 Featured Projects
