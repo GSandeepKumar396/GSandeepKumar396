@@ -3,7 +3,7 @@
 <!-- ========================================================= -->
 
 <p align="center">
-  <img src="./banner.png" width="100%" alt="G Sandeep Kumar - Software Developer"/>
+  <img src="./G_Sandeep_Kumar_BannerPhoto.png" width="100%" alt="G Sandeep Kumar - Software Developer"/>
 </p>
 
 <br>
