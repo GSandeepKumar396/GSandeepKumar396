@@ -45,7 +45,6 @@ API development and scalable software solutions**.
 
 🤝 **Ready to Build & Contribute.**
 
-<hr>
 <h2>🧰 Tech Stack</h2>
 
 <h3>💻 Languages</h3>
