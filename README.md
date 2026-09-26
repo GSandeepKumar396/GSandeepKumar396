@@ -59,36 +59,44 @@ API development and scalable software solutions**.
 
 ---
 
-# 🧰 Tech Stack
+## 🧰 Tech Stack
 
-### 💻 Programming Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,javascript,mysql" />
-</p>
-
-### ⚙️ Backend & Frameworks
+**💻 Languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=spring" />
+<img src="https://img.shields.io/badge/JAVA-FF6B35?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 </p>
+
+**⚙️ Backend**
 
 <p>
-  <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/SPRING%20BOOT-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20APIs-8B5CF6?style=flat-square&logo=fastapi&logoColor=white"/>
 </p>
 
-### 🎨 Frontend
+**🎨 Frontend**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,html,css" />
+<img src="https://img.shields.io/badge/REACT.js-00B8D9?style=flat-square&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 </p>
 
-### 🛠️ Tools & Platforms
+**🗄️ Database**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+<img src="https://img.shields.io/badge/MYSQL-00758F?style=flat-square&logo=mysql&logoColor=white"/>
 </p>
 
+**🛠️ Tools**
+
+<p>
+<img src="https://img.shields.io/badge/GIT-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-6E40C9?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20CODE-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/POSTMAN-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+</p>
 ---
 
 # 🚀 Featured Projects
