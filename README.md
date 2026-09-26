@@ -106,19 +106,15 @@ API development and scalable software solutions**.
 
 <h3>🧠 Core CS</h3>
 
-<h3>🧠 Core CS</h3>
-
-<p>
 <img src="https://img.shields.io/badge/OOP-FF6B35?style=flat-square&logo=java&logoColor=white"/>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/DBMS-00758F?style=flat-square&logo=mysql&logoColor=white"/>
-</p>
 
-<p>
+<br><br>
+
 <img src="https://img.shields.io/badge/OPERATING%20SYSTEMS-7C3AED?style=flat-square&logo=linux&logoColor=white"/>
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/COMPUTER%20NETWORKS-00897B?style=flat-square&logo=cisco&logoColor=white"/>
-</p>
 
 </td>
 
