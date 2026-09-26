@@ -293,38 +293,34 @@ applications.
 
 ---
 
-# 📊 GitHub Stats
+<h2 align="center">📊 GitHub Stats</h2>
 
-<p align="center">
+<div align="center">
 
   <img
     height="170"
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    src="https://github-readme-stats.vercel.app/api?username=GSandeepKumar396&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
     alt="G Sandeep Kumar GitHub Stats"
   />
 
   <img
     height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GSandeepKumar396&layout=compact&theme=tokyonight&hide_border=true"
     alt="Top Languages"
   />
 
-</p>
+</div>
 
----
+<h2 align="center">🔥 GitHub Contribution Streak</h2>
 
-# 🔥 GitHub Contribution Streak
-
-<p align="center">
+<div align="center">
 
   <img
-    src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com/?user=GSandeepKumar396&theme=tokyonight&hide_border=true"
     alt="GitHub Contribution Streak"
   />
 
-</p>
-
----
+</div>
 
 # 📈 My Development Journey
 
@@ -350,12 +346,16 @@ applications.
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/g-sandeep-kumar-a35580329">
   <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:20sandeep2005@gmail.com">
   <img src="https://img.shields.io/badge/GMAIL-FF3D00?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/GSandeepKumar396">
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white"/>
 </a>
 
 <a href="YOUR_PORTFOLIO_URL">
