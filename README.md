@@ -350,7 +350,8 @@ applications.
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="
+https://www.linkedin.com/in/g-sandeep-kumar-a35580329">
   <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;&nbsp;
